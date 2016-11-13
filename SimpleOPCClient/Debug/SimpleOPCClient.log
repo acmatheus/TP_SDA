@@ -1,0 +1,6 @@
+﻿  SimpleOPCClient_v3.cpp
+c:\users\user\documents\ufmg\sda\tp\simpleopcclient\simpleopcclient\simpleopcclient_v3.cpp(102): warning C4101: 'i': unreferenced local variable
+c:\users\user\documents\ufmg\sda\tp\simpleopcclient\simpleopcclient\simpleopcclient_v3.cpp(438): warning C4838: conversion from 'int' to 'OPCHANDLE' requires a narrowing conversion
+c:\users\user\documents\ufmg\sda\tp\simpleopcclient\simpleopcclient\simpleopcclient_v3.cpp(438): warning C4838: conversion from 'int' to 'VARTYPE' requires a narrowing conversion
+  SimpleOPCClient.vcxproj -> C:\Users\user\Documents\UFMG\SDA\TP\SimpleOPCClient\SimpleOPCClient\Debug\SimpleOPCClient.exe
+  SimpleOPCClient.vcxproj -> C:\Users\user\Documents\UFMG\SDA\TP\SimpleOPCClient\SimpleOPCClient\Debug\SimpleOPCClient.pdb (Full PDB)
